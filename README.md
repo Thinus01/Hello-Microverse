@@ -22,6 +22,6 @@ Feel free to check the [issues page](../../issues/).
 Give a :star:️ if you like this project!
 ## Acknowledgments
 - Completing a challenge like this is an accomplishment by it self
-- As the old saying goes: GitHub was not build in one day.
+- As the old saying goes: GitHub was not build in one day. 
 ## :memo: License
 This project is [MIT](./LICENSE) licensed.
